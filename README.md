@@ -1,12 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Veaceslav 👋
+### IT student in Moldova
 
-<!--
-**roflplayer11/roflplayer11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on learning
+- 🔭 I’m currently working on some little projects
 - 🌱 I’m currently learning C
 - 🤔 I’m looking for help with C and Python
-- ⚡ Fun fact: I love cats
--->
